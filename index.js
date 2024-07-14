@@ -82,3 +82,9 @@ function playGame() {
 }
 
 console.log(playGame());
+
+// create 3 buttons
+// add event listener to the buttons that call playRound()
+// create div
+// text appear on div when user click button
+// rps-ui
